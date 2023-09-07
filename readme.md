@@ -8,5 +8,6 @@ created new file
 # created test again
 ## GIT adalah aplikasi terbaik
 # kenapa git seperti ini coy
-anjay mabar
+created new file for learning git 
+
 
