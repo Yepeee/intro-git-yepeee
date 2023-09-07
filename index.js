@@ -1,2 +1,2 @@
 console.log("hello GIT")
-console.log("hello guys")
+let nama = "anjay"
